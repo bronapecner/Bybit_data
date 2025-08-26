@@ -1,1 +1,1 @@
-# Bybit_data
+Tento Python skript slouží pro stahování historických OHLCV (Open, High, Low, Close, Volume) dat pro kryptoměnové páry z burzy Bybit. Využívá knihovnu ccxt pro komunikaci s API burzy a pandas pro následné zpracování dat.
